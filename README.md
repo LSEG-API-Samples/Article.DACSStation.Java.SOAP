@@ -1,1 +1,2 @@
-# Article.DACSStation.Java.SOAP
+# [How to use wsdl2java and Apache CXF to generate Java SOAP client library on Maven](https://developers.lseg.com/en/article-catalog/article/how-to-use-wsdl2java-and-apache-cxf-to-generate-java-soap-client)
+# [How to use a Java SOAP client library created from wsdl2java and Apache CXF on Eclipse](https://developers.lseg.com/en/article-catalog/article/how-to-use-a-java-soap-client-library-generated-from-wsdl2java-i)
